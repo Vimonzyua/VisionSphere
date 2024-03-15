@@ -1,4 +1,4 @@
-import re #1
+import re #
 
 def is_strong_password(password):
     if len(password) < 8:
